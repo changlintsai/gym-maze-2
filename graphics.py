@@ -998,4 +998,4 @@ def test():
 update()
 
 if __name__ == "__main__":
-    jaf
+    test()
